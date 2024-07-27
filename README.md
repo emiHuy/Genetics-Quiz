@@ -4,5 +4,5 @@ Runs a GUI quiz that tests users of simple genetics facts. Code was taken/transf
 
 **Contributors:** Emily (me) <br />
 **Created on:** CMU CS Academy <br />
-**Year created:** 2023
+**Year created:** 2023 <br />
 **Language:** Python
